@@ -1,5 +1,5 @@
 //
-class Teste {
+class Teste { //Tipos de variáveis
   static public int varclass; //Variável de classe
   public int varObj; //Variável de objeto
   public static void main(String[] args) {    
